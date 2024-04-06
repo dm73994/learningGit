@@ -14,5 +14,7 @@ git log:
             Show us the history of the git commits on the proyect,
             indicates the id, branch, message, date and owner of the commit.
 
-
+git push:
+            update github repo with the last commit we made, we can specify whete we want to psuh, and what branch.
+            git push <where (origin)> <branch (main)>
             
