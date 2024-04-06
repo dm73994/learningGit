@@ -1,0 +1,14 @@
+git status:
+            tell us on the first line tha current branch.
+            On the second line indicates the state of the branch.
+            The final message from git status is about the state of the local project
+
+git remote -v: 
+            This command list all of our remotes
+
+git add <fileName.ext> || <.> :
+            Se usa git add para agregar al stage archivos nuevos para 
+            que esten listos para subirse, puede usar git add . para agregar todos los archivos sin tener que especificar su nombre y su extensión
+
+
+            
