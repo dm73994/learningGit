@@ -17,4 +17,8 @@ git log:
 git push:
             update github repo with the last commit we made, we can specify whete we want to psuh, and what branch.
             git push <where (origin)> <branch (main)>
+
+git diff:
+            Show us the difference between two sets of changes.
+            those changes could be anythin from staged commits to not-staged commits.
             
