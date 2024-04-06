@@ -30,6 +30,10 @@ git checkout <branchName>:
             -b
                 create a new branch, the branch will look like the clone of other, at a specific point in time.
 
+git branch:
+            -d <branchName>
+                delete a branch
+
 git merge <branchName>:
             This command takes one branch and merge all the changes in the current branch. So if i want to merge the change of the branch develop into the main branch i have to be place on branch main first, then use the command.
             
