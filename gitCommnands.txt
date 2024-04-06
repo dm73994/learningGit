@@ -24,4 +24,8 @@ git diff:
 
 git restore:
             Delete the no-staged changes made, so only the staged changed keep in track to commit
+
+git brach:
+    flags:
+        -b: create a new branch, the branch will look like the clone of other, at a specific point in time.
             
