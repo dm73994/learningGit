@@ -25,7 +25,11 @@ git diff:
 git restore:
             Delete the no-staged changes made, so only the staged changed keep in track to commit
 
-git brach:
-    flags:
-        -b: create a new branch, the branch will look like the clone of other, at a specific point in time.
+git checkout <branchName>:
+            We use this command to change from one branch to another, the command also use some flags like:
+            -b
+                create a new branch, the branch will look like the clone of other, at a specific point in time.
+
+git merge <branchName>:
+            This command takes one branch and merge all the changes in the current branch. So if i want to merge the change of the branch develop into the main branch i have to be place on branch main first, then use the command.
             
