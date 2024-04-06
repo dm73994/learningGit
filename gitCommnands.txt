@@ -10,5 +10,9 @@ git add <fileName.ext> || <.> :
             Se usa git add para agregar al stage archivos nuevos para 
             que esten listos para subirse, puede usar git add . para agregar todos los archivos sin tener que especificar su nombre y su extensión
 
+git log:
+            Show us the history of the git commits on the proyect,
+            indicates the id, branch, message, date and owner of the commit.
+
 
             
