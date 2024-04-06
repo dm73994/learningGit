@@ -21,4 +21,7 @@ git push:
 git diff:
             Show us the difference between two sets of changes.
             those changes could be anythin from staged commits to not-staged commits.
+
+git restore:
+            Delete the no-staged changes made, so only the staged changed keep in track to commit
             
